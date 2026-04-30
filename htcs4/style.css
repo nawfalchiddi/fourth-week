@@ -1,0 +1,27 @@
+
+body{
+    background-image:url('molengeekfoto.avif');
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+.container{
+    background-color: white;
+  margin-top: 40vh;
+}
+
+.box{
+    border: 3px solid black;
+    width: 300px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    box-shadow: 20px 20px 20px 20px rgba(0, 0, 0, 0.5);
+    margin-top: 0vh;
+}
+h1{
+    padding: 50px;
+}
+

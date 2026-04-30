@@ -1,0 +1,108 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.conta1{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: aliceblue;
+    height: 100px;
+    border-bottom: 3px solid orange;
+    margin-bottom: 20px;
+    padding: 30px;
+
+}
+ul{
+    text-decoration: none;
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+}
+.box1{background-color: rgb(14, 13, 13);
+position: relative;
+left: 180px;
+}
+li{
+    display: inline-block;
+}
+.box2{
+    position: relative;
+    top: 70px;
+    left: 60px;
+    background-color: rgb(16, 17, 17);
+    width: 400px;
+    height: 50px;
+    color: aliceblue;
+   
+}
+.conta2{
+    height: 400px;
+    margin-bottom: 20px; 
+    background-color: aliceblue;
+    position: relative;
+    left: 30px;
+    width: 1200px;
+}
+.sect1{
+    display: flex;
+    justify-content: center;
+    color: orange;
+      margin-bottom: 20px; 
+    padding: 30px;
+}
+.imagep{
+display: grid;
+grid-column: 10px;
+position: relative;
+bottom: 20px;
+position: relative;
+left: 20px;
+gap: 20px;
+}
+.conta3{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    display: grid;
+    grid-column: 20px;
+    height: 100px;
+    margin-bottom: 20px; 
+    position: relative;
+    left: 30px;
+    width: 1160px;
+    padding: 20px;
+}
+
+.sect2{
+    color: orange;
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+.lastp{
+   position: relative;
+   right: 520px;
+   margin: 30px;
+}
+
+.conta4{
+display: flex;
+justify-content: center;
+background-color: black;
+color: aliceblue;
+height: 100px;
+
+}
+
+.boxl{
+    position: relative;
+    top: 30px;     /*this is was the fault wrong i did*/
+}
+.bod{
+    background-color: lightgray;
+    gap: 20px;
+    height: 60px;    
+}

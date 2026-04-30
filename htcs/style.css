@@ -1,0 +1,21 @@
+.h11{
+    color: red;
+}
+
+.h22{
+    color: blue;
+}
+.para{
+    background-color: red;
+    font-weight: 900;
+    font-size: xx-large;
+}
+.soli{
+    text-decoration: underline;
+}
+.LI2{
+    font-style: italic;
+}
+.LI1{
+font-style: oblique;
+}

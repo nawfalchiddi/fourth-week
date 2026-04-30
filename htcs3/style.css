@@ -1,0 +1,276 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: lightgray;
+}
+.mlink:hover {
+  color: red;
+background-color: coral ;
+border-radius: 50px;
+width: 100px;
+height: 100px;
+padding: 5px;
+}
+/*first container*/
+.container1{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+   flex-direction: column;
+}
+.firsth1{
+    background-color:black;
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+    padding: 20px;
+}
+
+.box1{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    width: 1270px;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+
+}
+.firstul{
+    list-style: none;
+}
+
+.firstli{
+    display: inline-block;
+    padding: 10px;
+}
+
+/*second container*/
+
+.container2{
+    background-color: rgb(146, 201, 249);
+    position: relative;
+    left: 360px;
+   width: 500px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    display: grid;
+    grid-column:0;
+    
+}
+
+.secondh1{
+    color: orange;
+    gap: 0px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    
+}
+.firstp{
+padding: 0px;
+width: 860px;
+background-color: white;
+padding: 20px;
+}
+
+
+/*third container*/
+.container3{
+    background-color: white;
+    width: 900px;
+    position: relative;
+    left: 180px;
+
+
+}
+
+.thirdh1{
+color: orange;
+display: flex;
+justify-content: center;
+ padding: 20px;
+}
+
+.secondp{
+    width: 700px;
+    background-color:white;
+    padding: 20px;
+
+}
+/*fourth container/*/
+.container4{
+    background-color: white;
+    margin: 20px;
+    width: 880px;
+    position: relative;
+    left: 160px;
+padding: 10px;
+}
+
+
+.fourthh1{
+    width: 890px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    color: orange;
+}
+img{
+    border: 5px solid;
+}
+
+.image{
+    width: 870px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+/*fifth container*/
+
+.container5{
+    width: 900px;
+background-color: white;
+position: relative;
+left: 180px;
+
+}
+
+.fifthh1{background-color: white;
+    display: flex;
+    justify-content: center;
+    color: orange;
+    padding: 20px;
+}
+
+.secondnav{
+    background-color: white;
+   width: 800px;
+   position: relative;
+   left: 30px;
+   padding: 20px;
+}
+
+
+/*sixth container */
+
+.container6{
+    width: 860px;
+    background-color: white;
+    padding: 20px;
+    position: relative;
+    left: 155px;
+    margin: 20px;
+    border-left: 5px solid orange;
+}
+
+.sixthh1{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    color: orange;
+}
+
+.thirdp{
+    padding: 20px;
+}
+
+/*the seventh container/*/
+
+.container7{
+    width: 860px;
+    position: relative;
+    left: 160px;
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+}
+
+.seventhh1{
+    color: orange;
+    background-color: white;
+    width: 870px;
+    display: flex;
+    justify-content: center;
+}
+
+.image2{
+    background-color: white;
+    width: 870px;
+    display: flex;
+    justify-content: center;
+}
+
+.chekhim{
+   background-color: orange;
+   width: 80px;
+   height: 30px;
+   border: none;
+}
+.chekhim:hover{
+    color: red;
+}
+
+.chekhim{
+    cursor: pointer;
+color: aliceblue;
+}
+
+/*the eighth container */
+
+.container8{
+    width: 900px;
+    position: relative;
+    left: 180px;
+    background-color: white;
+
+}
+
+.eighthh1{
+    color: orange;
+    width: 900px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.boxthree{padding: 20px;
+   background-color: white;
+   width: 830px;
+   padding:30px;
+   
+   
+}
+
+.box3{
+    background-color: lightgray;
+    
+    padding: 60px;
+    position: relative;
+    left: 50px;
+    height: 30px;
+    width: 100px;
+    border: 5px solid;
+    display: inline-block;
+    margin:10px;
+}
+
+.fourthp{
+    display: flex;
+    justify-content: center;
+}
+
+/*footer*/
+.copy{
+    position: relative;
+    top: 50px;
+}
+

@@ -1,0 +1,80 @@
+.conta1{
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    height: 130px;
+}
+/* second container */
+.conta2{
+    background-color: white;
+    display: flex;
+    flex-direction:row;
+    margin-top: 10px;
+    color: aliceblue;
+    height: 130px;
+}
+.b1{
+     background-color: burlywood;
+    padding: 20px;
+    width: 590px;
+    display: flex;
+    justify-content: center;
+}
+.b2{
+    background-color: burlywood;
+    padding: 20px;
+    margin-left: 10px;
+    width: 590px;
+    display: flex;
+    justify-content: center;
+}
+/* third container */
+.conta3{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    color: aliceblue;
+    height: 130px;
+}
+.b3{
+    background-color: burlywood;
+     padding: 25px;
+    width: 590px;
+    display: flex;
+    justify-content: center;
+}
+.b4{
+    background-color: burlywood;
+     padding: 25px;
+    margin-left: 10px;
+    width: 590px;
+    display: flex;
+    justify-content: center;
+}
+/* fourth container */
+.conta4{
+     background-color: white;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    color: aliceblue;
+    background-color: white;
+    height: 150px;
+}
+.b5{
+     background-color: burlywood;
+     padding: 30px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+}
+.b6{
+     background-color: burlywood;
+     padding: 30px;
+    width: 100px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+}

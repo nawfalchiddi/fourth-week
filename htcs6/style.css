@@ -1,0 +1,133 @@
+body{
+    background-color: white;
+}
+.box1and2and3{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    height: 200px;
+}
+.box1and2{
+    width: 50%;
+    background-color: white;
+}
+.box1{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    width: 95%;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+.box2{
+    background-color: red;
+    color: white;
+    padding: 5px;
+     width: 95%;
+     margin: 10px;
+     display: flex;
+    justify-content: center;
+}
+.box3{
+    background-color: red;
+    color: white;
+    width: 620px;
+    display: flex;
+    justify-content: center;
+    height: 189px;
+    margin-top: 10px;
+   
+}
+/* second section */
+.box4and5and6{
+display: flex;
+flex-direction: column; 
+background-color: white; 
+margin-top: 5px;
+width: 610px;
+justify-content: center;
+}
+.box4to8{
+    background-color: white;
+display: flex;
+flex-direction: row;
+margin-left: 10px;
+color: aliceblue;
+}
+.box4{
+    margin: 1px;
+    padding: 2px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    width: 599px;
+    margin-top: 4px;
+    margin-bottom: 5px;
+}
+.box7and8{
+    background-color: white;
+    width: 620px;
+    margin-top: 10px;
+    margin-left: 6px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+    
+}
+.box8{
+    background-color: red;
+    margin-top: 0px;
+    padding: 20px;
+    width: 260px;
+    margin-left: 20px;
+}
+.box7{
+    background-color: red;
+    margin: px;
+    padding: 20px;
+    width: 260px;
+}
+/* !third section */
+
+.box9to15{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+height: 210px;
+margin-left: 5px;
+color: aliceblue;
+}
+.box9to13{
+    display: flex;
+    flex-direction: row;
+}
+.box9{
+    background-color: red;
+    padding: 43.5px;
+    margin-left:6.3px;
+}
+
+
+
+
+.box14to15{
+    background-color: white;
+    width: 630px;
+    margin-top: 0px;
+    margin-left: 12px;
+}
+.box15{
+    background-color: red;
+    margin-top: 10px;
+    padding: 10px;
+}
+.box14{
+    background-color: red;
+    margin: px;
+    padding: 10px;
+}
+
+
+

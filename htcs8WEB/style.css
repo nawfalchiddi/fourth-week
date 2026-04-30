@@ -1,0 +1,302 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+.select1 {
+  border: none;
+}
+.firsth1 {
+  font-family: "Oi", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: blue;
+  margin-left: 70px;
+}
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-shadow: 0 4px 2px -2px gray;
+}
+.firstdiv {
+  display: flex;
+  flex-direction: row;
+}
+nav {
+  margin-top: 10px;
+}
+select:hover {
+  font-family:;
+}
+.lang {
+  display: flex;
+  flex-direction:;
+  margin-top: 10px;
+}
+.lang:hover {
+  color: aquamarine;
+}
+.login {
+  margin-top: 5px;
+  margin-left: 10px;
+  border-radius: 30px;
+  border-radius: 100px solid rgb(50, 189, 223);
+  color: blue;
+  width: 120px;
+  height: 30px;
+  background-color: white;
+}
+.login:hover {
+  text-decoration: underline;
+}
+
+/* second container*/
+.secp {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+.sech1 {
+  font-family: "Gravitas One", serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-right: 5px;
+  margin-top: 50px;
+}
+.text1 {
+  display: flex;
+  justify-content: center;
+}
+.thirdh1 {
+  margin-top: 50px;
+}
+.thirdp {
+  margin-top: 20px;
+  margin-left: 500px;
+}
+.secbut {
+  background-color: blue;
+  color: aliceblue;
+  border-radius: 20px;
+  width: 150px;
+  height: 40px;
+  margin-left: 500px;
+  margin-top: 20px;
+  border: none;
+  cursor: pointer;
+}
+.thirdbut {
+  background-color: lightgrey;
+  border-radius: 20px;
+  width: 150px;
+  height: 40px;
+  border: none;
+}
+.lasta {
+  text-decoration: none;
+}
+/*  the second part */
+.conta2 {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(236, 231, 231);
+  width: 1200px;
+  padding: 20px;
+
+  margin-left: 15px;
+  border-radius: 20px;
+}
+
+.select3 {
+  width: 340px;
+  height: 40px;
+  border-radius: 10px;
+}
+.select2 {
+  width: 340px;
+  height: 40px;
+  border-radius: 10px;
+}
+.select2and {
+  margin-left: 90px;
+}
+
+.location {
+  margin-left: 100px;
+}
+.but5 {
+  width: 30px;
+}
+.secinput {
+  width: 40px;
+  height: 30px;
+  text-align: right;
+  border: none;
+  cursor: pointer;
+}
+.but4 {
+  width: 30px;
+}
+.but6 {
+  width: 100px;
+  background-color: blue;
+  color: aliceblue;
+  height: 20px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+.numberofpeople {
+  margin-bottom: 10px;
+  margin-right: 20px;
+}
+.newinput {
+  margin-top: px;
+  margin-left: 30px;
+  display: flex;
+  flex-direction: column;
+}
+/* third container */
+.conta3 {
+  background-color: white;
+  padding: 20px;
+  display: flex;
+  margin-top: 10px;
+  width: 1200px;
+  margin-left: 15px;
+  border-radius: 20px;
+}
+.card3 {
+  background-color: white;
+  padding: 70px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 5px;
+  width: 260px;
+  border-radius: 10px;
+  height: 70vh;
+  border: 2px solid lightgray;
+  border-radius: 12px 12px 0 0;
+}
+
+
+.butimg1 {
+  border-radius: 10px;
+  border-radius: 10px solid lightgray;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  border: 2px solid rgb(228, 227, 227);
+  display: flex;
+  flex-direction: row;
+  height: 34px;
+  width: 170px;
+align-items: center;
+  gap: 3px;
+  margin-left: 40px;
+}
+.butimg2 {
+  border-radius: 5px;
+  border-radius: 0px solid rgb(225, 222, 222);
+  margin-top: 5px;
+  height: 35px;
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid rgb(230, 228, 228);
+  width: 80px;
+  margin-left: 40px;
+}
+.butimg3 {
+  margin-left: 5px;
+  height: 35px;
+  width: 80px;
+  border-radius: 5px;
+  border: 2px solid rgb(225, 221, 221);
+  margin-top: 5px;
+  color: gray;
+}
+.iconappel{
+    position: relative;
+    top: 4px;
+}
+.LASTP {
+  position: relative;
+  top: 5px;
+}
+
+.but2img {
+  display: flex;
+  flex-direction: row;
+}
+.btn {
+  background-color: rgb(232, 93, 93);
+  position: relative;
+  left: 240px;
+  margin-right: 200vw;
+  bottom: 180px;
+  width: 73px;
+  background-color: blue;
+  color: aliceblue;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  height: 30px;
+}
+.line {
+  position: relative;
+  right: 70px;
+  top: 10px;
+  width: 154%;
+  height: 2px;
+  background-color: rgb(208, 206, 206);
+  margin-right: 100%;
+}
+.lastfigure {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  width: 330px;
+  display: flex;
+  flex-direction: row;
+}
+.lastbut {
+  padding-right: 20px;
+  margin-left: 90px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 4px gray;
+  background-color: blue;
+  color: aliceblue;
+  position: relative;
+  bottom: 0px;
+  width: 100px;
+}
+
+.image1{
+  height: 50%;
+  width: 31.2vw;
+  position: relative;
+  right: 69.5px;
+  top: 15px;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.h31 {
+  margin-bottom: 50px;
+}
+.card4 {
+  background-color: white;
+  border: 2px solid lightgray;
+  padding: 70px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 0px;
+  width: 260px;
+  border-radius: 10px;
+  height: 70vh;
+  border-radius: 12px 12px 0 0;
+}
